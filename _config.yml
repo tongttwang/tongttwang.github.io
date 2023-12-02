@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tongtong Wang (王彤彤)"
+title                    : "Tongtong Wang 王彤彤"
 description              : ""
 repository               : "tongttwang/tongttwang.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,9 +23,9 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Tongtong Wang (王彤彤)"
   avatar           : #"images/ry_profile.jpeg"
-  bio              : "LightSpeed Studios"
-  location         : "China"
-  employer         :
+  bio              : "LightSpeed Studios, Tencent"
+  location         : "Shenzhen, China"
+  employer         : 
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
   email            : "tongttwang@tencent.com"
@@ -135,7 +135,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
