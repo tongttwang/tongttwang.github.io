@@ -1,22 +1,22 @@
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/tractor.jpg' width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/hairInterp.jpg' width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<strong>High-Order Moment-Encoded Kinetic Simulation of Turbulent Flows</strong> \\
-Wei Li, <strong>Tongtong Wang</strong>, Zherong Pan, Xifeng Gao, Kui Wu, Mathieu Desbrun \\
-*ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)* \\
-[**Project Website**](https://kuiwuchn.github.io/rtsw.html)
+<strong>Real-time Physically Guided Hair Interpolation</strong> \\
+Jerry Hsu, <strong>Tongtong Wang</strong>, Zherong Pan, Xifeng Gao, Cem Yuksel, Kui Wu \\
+*ACM Transactions on Graphics (Proceedings of SIGGRAPH 2024)* \\
+[**Project Website**](https://kuiwuchn.github.io/hairInterp.html)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/tractor.jpg' width="110%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/proxycloth.jpg' width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<strong>High-Order Moment-Encoded Kinetic Simulation of Turbulent Flows</strong> \\
-Wei Li, <strong>Tongtong Wang</strong>, Zherong Pan, Xifeng Gao, Kui Wu, Mathieu Desbrun \\
-*ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)* \\
-[**Project Website**](https://kuiwuchn.github.io/rtsw.html)
+<strong>Proxy Asset Generation for Cloth Simulation in Games</strong> \\
+Zhongtian Zheng, <strong>Tongtong Wang</strong>, Qijia Feng, Zherong Pan, Xifeng Gao, Kui Wu \\
+*ACM Transactions on Graphics (Proceedings of SIGGRAPH 2024)* \\
+[**Project Website**](https://kuiwuchn.github.io/proxycloth.html)
 </div>
 </div>
 
