@@ -10,6 +10,26 @@ Wei Li, <strong>Tongtong Wang</strong>, Zherong Pan, Xifeng Gao, Kui Wu, Mathieu
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tractor.jpg' width="110%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong>High-Order Moment-Encoded Kinetic Simulation of Turbulent Flows</strong> \\
+Wei Li, <strong>Tongtong Wang</strong>, Zherong Pan, Xifeng Gao, Kui Wu, Mathieu Desbrun \\
+*ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)* \\
+[**Project Website**](https://kuiwuchn.github.io/rtsw.html)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tractor.jpg' width="110%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong>High-Order Moment-Encoded Kinetic Simulation of Turbulent Flows</strong> \\
+Wei Li, <strong>Tongtong Wang</strong>, Zherong Pan, Xifeng Gao, Kui Wu, Mathieu Desbrun \\
+*ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)* \\
+[**Project Website**](https://kuiwuchn.github.io/rtsw.html)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/sagfreehair.jpg' width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
