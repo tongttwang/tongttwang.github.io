@@ -1,5 +1,25 @@
 # Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/stableCosseratRods_twist.jpg' width="110%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong>Stable Cosserat Rods</strong> \\
+Jerry Hsu, <strong>Tongtong Wang</strong>, Kui Wu, Cem Yuksel \\
+*SIGGRAPH 2025 (Conference Track)* \\
+[**Project Website**](https://jerryhsu.io/projects/StableCosseratRods/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/knitsingular.jpg' width="110%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong>Curl Quantization for Automatic Placement of Knit Singularities</strong> \\
+Rahul Mitra, Mattéo Couplet, <strong>Tongtong Wang</strong>, Megan Hoffmann, Kui Wu, Edward Chien \\
+*SIGGRAPH 2025 (Conference Track)* \\
+[**Project Website**](https://rahulmitra.xyz/projects/curl_quantization/)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/hairInterp.jpg' width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
