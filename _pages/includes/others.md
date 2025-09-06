@@ -1,6 +1,6 @@
 
 # Works
-- *2019.07 - Now*, Tencent, Shenzhen.
+- *2019.07 - Now*, Tencent, Lightspeed Studios.
 
 # Educations
 - *2014.09 - 2019.06*, Ph.D., Computer Science, Zhejiang University, Hangzhou.
