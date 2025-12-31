@@ -1,10 +1,20 @@
 # Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/diffcard.jpg' width="110%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<strong>Auto Hair Card Extraction for Smooth Hair with Differentiable Rendering</strong> \\
+Zhongtian Zheng, Tao Huang, Haozhe Su, Xueqi Ma, Yuefan Shen, <strong>Tongtong Wang</strong>, Yin Yang, [Xifeng Gao](https://gaoxifeng.github.io/), Zherong Pan, [Kui Wu](https://kuiwuchn.github.io/) \\
+*ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2025)* \\
+[**Project Website**](https://kuiwuchn.github.io/diffcard.html/)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/stableCosseratRods_twist.jpg' width="110%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <strong>Stable Cosserat Rods</strong> \\
-Jerry Hsu(https://jerryhsu.io/), <strong>Tongtong Wang</strong>, [Kui Wu](https://kuiwuchn.github.io/), [Cem Yuksel](https://www.cemyuksel.com/) \\
+[Jerry Hsu](https://jerryhsu.io/), <strong>Tongtong Wang</strong>, [Kui Wu](https://kuiwuchn.github.io/), [Cem Yuksel](https://www.cemyuksel.com/) \\
 *SIGGRAPH 2025 (Conference Track)* \\
 [**Project Website**](https://jerryhsu.io/projects/StableCosseratRods/)
 </div>
