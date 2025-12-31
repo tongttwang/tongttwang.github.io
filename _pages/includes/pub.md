@@ -4,7 +4,7 @@
 <div class='paper-box-text' markdown="1">
 
 <strong>Auto Hair Card Extraction for Smooth Hair with Differentiable Rendering</strong> \\
-Zhongtian Zheng, Tao Huang, Haozhe Su, Xueqi Ma, Yuefan Shen, <strong>Tongtong Wang</strong>, Yin Yang, [Xifeng Gao](https://gaoxifeng.github.io/), Zherong Pan, [Kui Wu](https://kuiwuchn.github.io/) \\
+Zhongtian Zheng, Tao Huang, Haozhe Su, Xueqi Ma, Yuefan Shen, <strong>Tongtong Wang</strong>, Yin Yang, Xifeng Gao, Zherong Pan, Kui Wu \\
 *ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2025)* \\
 [**Project Website**](https://kuiwuchn.github.io/diffcard.html/)
 </div>
@@ -14,7 +14,7 @@ Zhongtian Zheng, Tao Huang, Haozhe Su, Xueqi Ma, Yuefan Shen, <strong>Tongtong W
 <div class='paper-box-text' markdown="1">
 
 <strong>Stable Cosserat Rods</strong> \\
-[Jerry Hsu](https://jerryhsu.io/), <strong>Tongtong Wang</strong>, [Kui Wu](https://kuiwuchn.github.io/), [Cem Yuksel](https://www.cemyuksel.com/) \\
+Jerry Hsu, <strong>Tongtong Wang</strong>, Kui Wu, Cem Yuksel \\
 *SIGGRAPH 2025 (Conference Track)* \\
 [**Project Website**](https://jerryhsu.io/projects/StableCosseratRods/)
 </div>
@@ -24,7 +24,7 @@ Zhongtian Zheng, Tao Huang, Haozhe Su, Xueqi Ma, Yuefan Shen, <strong>Tongtong W
 <div class='paper-box-text' markdown="1">
 
 <strong>Curl Quantization for Automatic Placement of Knit Singularities</strong> \\
-Rahul Mitra, Mattéo Couplet, <strong>Tongtong Wang</strong>, Megan Hoffmann, [Kui Wu](https://kuiwuchn.github.io/), Edward Chien \\
+Rahul Mitra, Mattéo Couplet, <strong>Tongtong Wang</strong>, Megan Hoffmann, Kui Wu, Edward Chien \\
 *SIGGRAPH 2025 (Conference Track)* \\
 [**Project Website**](https://rahulmitra.xyz/projects/curl_quantization/)
 </div>
@@ -34,7 +34,7 @@ Rahul Mitra, Mattéo Couplet, <strong>Tongtong Wang</strong>, Megan Hoffmann, [K
 <div class='paper-box-text' markdown="1">
 
 <strong>Real-time Physically Guided Hair Interpolation</strong> \\
-[Jerry Hsu](https://jerryhsu.io/), <strong>Tongtong Wang</strong>, Zherong Pan, [Xifeng Gao](https://gaoxifeng.github.io/), [Cem Yuksel](https://www.cemyuksel.com/), [Kui Wu](https://kuiwuchn.github.io/) \\
+Jerry Hsu, <strong>Tongtong Wang</strong>, Zherong Pan, Xifeng Gao, Cem Yuksel, Kui Wu \\
 *ACM Transactions on Graphics (Proceedings of SIGGRAPH 2024)* \\
 [**Project Website**](https://kuiwuchn.github.io/hairInterp.html)
 </div>
@@ -44,7 +44,7 @@ Rahul Mitra, Mattéo Couplet, <strong>Tongtong Wang</strong>, Megan Hoffmann, [K
 <div class='paper-box-text' markdown="1">
 
 <strong>Proxy Asset Generation for Cloth Simulation in Games</strong> \\
-Zhongtian Zheng, <strong>Tongtong Wang</strong>, Qijia Feng, Zherong Pan, [Xifeng Gao](https://gaoxifeng.github.io/), [Kui Wu](https://kuiwuchn.github.io/) \\
+Zhongtian Zheng, <strong>Tongtong Wang</strong>, Qijia Feng, Zherong Pan, Xifeng Gao, Kui Wu \\
 *ACM Transactions on Graphics (Proceedings of SIGGRAPH 2024)* \\
 [**Project Website**](https://kuiwuchn.github.io/proxycloth.html)
 </div>
@@ -54,7 +54,7 @@ Zhongtian Zheng, <strong>Tongtong Wang</strong>, Qijia Feng, Zherong Pan, [Xifen
 <div class='paper-box-text' markdown="1">
 
 <strong>High-Order Moment-Encoded Kinetic Simulation of Turbulent Flows</strong> \\
-Wei Li, <strong>Tongtong Wang</strong>, Zherong Pan, [Xifeng Gao](https://gaoxifeng.github.io/), [Kui Wu](https://kuiwuchn.github.io/), Mathieu Desbrun \\
+Wei Li, <strong>Tongtong Wang</strong>, Zherong Pan, Xifeng Gao, Kui Wu, Mathieu Desbrun \\
 *ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)* \\
 [**Project Website**](https://kuiwuchn.github.io/rtsw.html)
 </div>
@@ -64,7 +64,7 @@ Wei Li, <strong>Tongtong Wang</strong>, Zherong Pan, [Xifeng Gao](https://gaoxif
 <div class='paper-box-text' markdown="1">
 
 <strong>Sag-Free Initialization for Strand-Based Hybrid Hair Simulation</strong> \\
-[Jerry Hsu](https://jerryhsu.io/), <strong>Tongtong Wang</strong>, Zherong Pan, [Xifeng Gao](https://gaoxifeng.github.io/), [Cem Yuksel](https://www.cemyuksel.com/), [Kui Wu](https://kuiwuchn.github.io/) \\
+Jerry Hsu, <strong>Tongtong Wang</strong>, Zherong Pan, Xifeng Gao, Cem Yuksel, Kui Wu \\
 *ACM Transactions on Graphics (Proceedings of SIGGRAPH 2023)*\\
 <span style="color:red;">Best Siggraph Technical Paper Award, Honorable Mention</span>\\
 [**Project Website**](https://graphics.cs.utah.edu/research/projects/sag-free-hair/)
@@ -75,7 +75,7 @@ Wei Li, <strong>Tongtong Wang</strong>, Zherong Pan, [Xifeng Gao](https://gaoxif
 <div class='paper-box-text' markdown="1">
 
 <strong>I-Cloth: Incremental Collision Handling for GPU-Based Interactive Cloth Simulation</strong> \\
-[Min Tang](https://min-tang.github.io/home/), <strong>Tongtong Wang</strong>, Zhongyuan Liu, Ruofeng Tong, and Dinesh Manocha \\
+Min Tang, <strong>Tongtong Wang</strong>, Zhongyuan Liu, Ruofeng Tong, and Dinesh Manocha \\
 *ACM Transactions on Graphics (Proceedings of SIGGRAPH 2018)*\\
 [**Project Website**](https://min-tang.github.io/home/ICloth/)
 </div>
@@ -85,7 +85,7 @@ Wei Li, <strong>Tongtong Wang</strong>, Zherong Pan, [Xifeng Gao](https://gaoxif
 <div class='paper-box-text' markdown="1">
 
 <strong> Accurate Self-Collision Detection Using Enhanced Dual-Cone Method</strong> \\
-<strong>Tongtong Wang</strong>, [Min Tang](https://min-tang.github.io/home/), Zhendong Wang, and Roufeng Tong \\
+<strong>Tongtong Wang</strong>, Min Tang, Zhendong Wang, and Roufeng Tong \\
 *Computers & Graphics, 73, 70-79, 2018*\\
 [**Project Website**](https://min-tang.github.io/home/DCC/)
 </div>
@@ -95,7 +95,7 @@ Wei Li, <strong>Tongtong Wang</strong>, Zherong Pan, [Xifeng Gao](https://gaoxif
 <div class='paper-box-text' markdown="1">
 
 <strong>Efficient and Reliable Self-Collision Culling using Unprojected Normal Cones</strong> \\
-<strong>Tongtong Wang</strong>, Zhihua Liu, [Min Tang](https://min-tang.github.io/home/), Roufeng Tong, and Dinesh Manocha \\
+<strong>Tongtong Wang</strong>, Zhihua Liu, Min Tang, Roufeng Tong, and Dinesh Manocha \\
 *Computer Graphics Forum, 36(8), 487-498, 2017*\\
 [**Project Website**](https://min-tang.github.io/home/SCC/)
 </div>
