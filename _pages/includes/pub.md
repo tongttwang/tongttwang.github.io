@@ -4,7 +4,7 @@
 <div class='paper-box-text' markdown="1">
 
 <strong>Stable Cosserat Rods</strong> \\
-[Jerry Hsu](https://jerryhsu.io/), <strong>Tongtong Wang</strong>, [Kui Wu](https://kuiwuchn.github.io/), [Cem Yuksel](https://www.cemyuksel.com/) \\
+Jerry Hsu(https://jerryhsu.io/), <strong>Tongtong Wang</strong>, [Kui Wu](https://kuiwuchn.github.io/), [Cem Yuksel](https://www.cemyuksel.com/) \\
 *SIGGRAPH 2025 (Conference Track)* \\
 [**Project Website**](https://jerryhsu.io/projects/StableCosseratRods/)
 </div>
